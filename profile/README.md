@@ -1,12 +1,4 @@
-## Hi there 👋
+# 지상 최강의 가문
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[지상 최강의 개발자 쥬니니](https://github.com/juunini)가 인정하는  
+'지상 최강의' 라는 타이틀을 붙일 수 있는 사람들의 모임입니다.
